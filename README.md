@@ -1,4 +1,4 @@
-# Knime-Beginner-Training-1
+# Knime-Beginner-Training
 
 <span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
