@@ -6,7 +6,7 @@
 
 <span>&#128201;</span> Technical Spesifications-> [Click Here](https://www.knime.com/software-overview)
 
-# Slide : 
+# Slide & Workflow : 
 
 * [Knime-Beginner-Training-Part1](https://docs.google.com/presentation/d/1551CT5vRjQ8oK9KzEoXT5W375pwE0I6E-RrwLgTegm4/edit?usp=sharing)
 * [Knime-Beginner-Training-Part2](https://docs.google.com/presentation/d/1Kd3-JKfP1OoUu4MnkZj2hOKHyAEaIASsIni1L9s82Bo/edit?usp=sharing)
