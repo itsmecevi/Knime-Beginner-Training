@@ -14,4 +14,6 @@
 * [Knime-Beginner-Training-Part3](https://docs.google.com/presentation/d/1UDDfh7FzNJKRPK9n8nvAA93VYdOb2ek3sTqzcmf9vW0/edit?usp=sharing)
    * [Workflow File](https://github.com/itsmecevi/KNIMEUserTraining_Ex4-5/blob/master/KNIMEUserTraining_Ex4-5.knar)
 
+# Preferences :
 
+* [knime.com](https://www.knime.com/)
