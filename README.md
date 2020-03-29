@@ -1,6 +1,6 @@
 # Knime-Beginner-Training
 
-<span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+<span>&#129311;</span> Cevi Herdian (**Knime Academic Alliance Partner**)  -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
 <span>&#128202;</span> About Knime Analytics -> [Click Here](https://www.knime.com/about)
 
